@@ -37,7 +37,7 @@ It loads known faces from a local directory, encodes them, and then continuously
 git clone https://github.com/yourusername/codsoft_taskno.4.git
 ```
 ```Copy Code
-cd face-recognition
+cd codsoft_taskno.4
 ```
 2. Install Dependencies
 Make sure you have Python 3.7+ installed, then install the required libraries:
