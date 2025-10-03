@@ -53,9 +53,8 @@ Create a folder named faces/ in the project directory and place images of known 
 
 ```Copy code
 faces/
-├── alice.jpg
-├── bob.jpg
-└── charlie.jpg
+├── Jeff Bezos.jpg
+├── Elon Musk.jpg
 ```
 The filename (without extension) is used as the person's label (e.g., alice.jpg → "Alice").
 
@@ -104,7 +103,7 @@ Bounding boxes and names are drawn on the video feed in real time.
 ---
 
 📸 Example Directory Structure
-Copy code
+```Copy code
 face-recognition/
 │
 ├── faceDetect_Recognition.py
@@ -113,6 +112,7 @@ face-recognition/
 │   ├── Elon Musk.jpg
 │
 └── README.md
+```
 🧪 Example Output
 When a known face is detected:
 
